@@ -21,4 +21,4 @@ This environment was built from the ground up with a focus on clean topology and
 - `/Textures`: Custom-made textures made with Affinity used within the assets.
 - `CakeShop.blend`: The core Blender project file.
 ---
-*Created with love and a touch of Christmas magic by Sarahi.*
+*Created by Sarahi — With love and a touch of Christmas magic.*
